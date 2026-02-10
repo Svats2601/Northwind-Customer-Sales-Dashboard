@@ -1,17 +1,17 @@
-# 📊 Northwind Traders – Customer Sales Dashboard
+# Northwind Traders – Customer Sales Dashboard
 
 This project is a Power BI dashboard created to analyze customer sales data for Northwind Traders.  
 The dashboard is designed to provide a clear view of sales performance, customer behavior, and payment trends in an interactive format.
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 A visual overview of the final dashboard is included in this repository under the `screenshots` folder.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This dashboard answers key business questions such as:
 - Who are the top customers by sales?
@@ -23,7 +23,7 @@ Users can interact with the dashboard using filters for Month and Product Catego
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The objective of this project is to support data-driven decision-making by:
 - Identifying high-performing customers and products
@@ -33,7 +33,7 @@ The objective of this project is to support data-driven decision-making by:
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - KPI cards showing:
   - Total Sales
@@ -53,7 +53,7 @@ The objective of this project is to support data-driven decision-making by:
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 - Dataset: Northwind Sales.xlsx  
 - Provided by: Microsoft (via Coursera)  
@@ -64,7 +64,7 @@ The dataset is stored in the `data` folder of this repository.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Power BI Desktop
 - Microsoft Excel
@@ -73,7 +73,7 @@ The dataset is stored in the `data` folder of this repository.
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Download the Power BI file from this repository
 2. Open it using Power BI Desktop
@@ -82,13 +82,13 @@ The dataset is stored in the `data` folder of this repository.
 
 ---
 
-## 👤 Author
+## Author
 
 Sahil Vats  
 Aspiring Data Analyst | Power BI | SQL | Python  
 
 ---
 
-## ⭐ Note
+## Note
 
 This project was created for learning and portfolio purposes and demonstrates practical use of Power BI for real-world sales analysis.
